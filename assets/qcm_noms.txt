@@ -1,0 +1,10 @@
+Quand a été creé le 1er ordinateur? A-1950 ; B-1946 ; C-1999 ; D-1920 ; ~B
+Un octet correspond à combien de bits ? A-4 ; B-256 ; C-8 ; D-2 ~C
+Comment appele t'on le harcelement virtuel ? A-harcelemant de rue ; B-harcelement digital ; C-cyber harcelement ; D-harcelement online ~C
+De combien de pixel est composer environ un ecran de telephone ? A-1179 x 2556 pixels ; B- 20 x 60 ; C- 400 x 900 D- 5000 x 7500 ~A
+Comment fermer la page en cours d'utlisisation sur un pc ? A- ctrl alt g ; B- alt f4 ; C- windows e ; D- alt fin ~B
+Comment prendre une capture d'ecran sur pc (raccourci)? A- windows alt gr ; B- ctrl vermaj fleche haut fn r ; C- inser ; windows maj s ~D
+Comment retourner le resultat sur python ? A- return ; B- print ; C- def ; D-while ~A
+Comment creer une boucle bornée sur python ? A- len ; B- list ; C- for ; D- while ~C
+Comment s'appele l'homme recherché par les USA pour espionnage informatique ? A-Bryan Jonhson ; B-Micheal Scoffield ; C- Lebron James ; D-Edwar Snoden ~D
+Que signifie www avant un site ? A- web world wide ; B- wide world web ; C- world wide web ; D- world web wibe ~C
